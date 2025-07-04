@@ -3,9 +3,53 @@
     padding: 0;
 }
 
+:root {
+    font-family: "Open Sans", sans-serif;
+}
+
 img {
     border-radius: 28px;
     width: 100%;
+}
+
+.introducao-viagem, .para-amantes-de-historia {
+    color: #E1624F;
+    text-transform: uppercase;
+    font-weight: 700;
+
+}
+
+.titulo {
+    color: #1B1B1B;
+    font-size: 36px;
+    font-weight: 700;
+    -webkit-text-stroke: 1px #000000;
+    }
+
+.descricao_img {
+    color: #333333; 
+    font-size: 16px;
+    font-style: italic;
+    text-align: center;
+    
+}
+ 
+h2 {
+    color: #1B1B1B;
+    font-size: 32px;
+    font-weight: 700;
+}
+
+.texto {
+    color:#333333;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+h3 {
+    color: #1B1B1B;
+    font-size: 28px;
+    font-weight: 700;
 }
 
 
