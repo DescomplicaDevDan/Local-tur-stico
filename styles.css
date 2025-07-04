@@ -132,3 +132,16 @@ ul.tags li {
     margin: 36px 0;
     background-color: #D9D9D9;
 }
+
+footer {
+    color: #333333;
+    font-family: "Alice", serif;
+    text-align: center;
+    padding-bottom: 48px;
+}
+
+.rodape img {
+    width: 16px;
+    height: 16px;
+    vertical-align: middle;
+}
