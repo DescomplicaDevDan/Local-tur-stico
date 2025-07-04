@@ -8,6 +8,10 @@
     line-height: auto;
 }
 
+main {
+    padding: 88px 80px 65px 88px;
+}
+
 img {
     border-radius: 28px;
     width: 100%;
@@ -19,25 +23,38 @@ img {
     font-weight: 700;
 }
 
+.introducao-viagem {
+    padding-bottom: 8px;
+}
+
 .titulo {
     color: #1B1B1B;
     font-size: 36px;
     font-weight: 700;
     -webkit-text-stroke: 1px #000000;
-    }
+    padding-bottom: 40px ;
+}
+
 
 .descricao_img {
     color: #333333; 
     font-size: 16px;
     font-style: italic;
     text-align: center;
+    padding: 24px 0 40px 0;
     
 }
- 
+
+.bloco2 {}
+
+.para-amantes-de-historia {
+    padding: 64px 0 2px 0;
+}
 h2 {
     color: #1B1B1B;
     font-size: 32px;
     font-weight: 700;
+    padding-bottom: 8px;
 }
 
 .texto {
@@ -46,10 +63,20 @@ h2 {
     font-weight: 400;
 }
 
+.centralizado {
+    text-align: center;
+}
+
+.primeiro {
+    padding-bottom: 64px;
+}
+
 h3 {
     color: #1B1B1B;
     font-size: 28px;
     font-weight: 700;
+    padding: 24px 0 4px;
+   
 }
 
 .lista, .historia, .purple, .pink, .orange {
@@ -59,6 +86,7 @@ h3 {
 }
  .historia {
     color: #0C51A7;
+    padding-bottom: 48px;
  }
 
  .purple {
