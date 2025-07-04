@@ -5,8 +5,7 @@
 
 :root {
     font-family: "Open Sans", sans-serif;
-    line-height: auto;
-}
+    }
 
 main {
     padding: 88px 80px 65px 88px;
@@ -87,19 +86,29 @@ h3 {
  .historia {
     color: #0C51A7;
     padding-bottom: 48px;
+    list-style-type: disc;
  }
 
  .purple {
     color: #591B98;
+    list-style-type: disc;
  }
 
  .pink {
     color: #E5245E;
+    list-style-type: disc;
  }
 
  .orange {
     color: #E95E10;
+    list-style-type: disc;
  }
+
+ ul li::marker {
+  color: #333333;
+ 
+}
+
 
 .divider {
     width: 100%;
