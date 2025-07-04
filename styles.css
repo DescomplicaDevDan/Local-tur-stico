@@ -5,6 +5,7 @@
 
 :root {
     font-family: "Open Sans", sans-serif;
+    line-height: auto;
 }
 
 img {
@@ -16,7 +17,6 @@ img {
     color: #E1624F;
     text-transform: uppercase;
     font-weight: 700;
-
 }
 
 .titulo {
@@ -52,6 +52,26 @@ h3 {
     font-weight: 700;
 }
 
+.lista, .historia, .purple, .pink, .orange {
+    color: #333333;
+    font-size: 16px;
+    font-weight: 700;
+}
+ .historia {
+    color: #0C51A7;
+ }
+
+ .purple {
+    color: #591B98;
+ }
+
+ .pink {
+    color: #E5245E;
+ }
+
+ .orange {
+    color: #E95E10;
+ }
 
 .divider {
     width: 100%;
